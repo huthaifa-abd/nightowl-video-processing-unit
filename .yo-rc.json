@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.hudhaifa.nightowl"
+    },
+    "jhipsterVersion": "6.9.0",
+    "applicationType": "gateway",
+    "baseName": "videoProcessingUnit",
+    "packageName": "com.hudhaifa.nightowl",
+    "packageFolder": "com/hudhaifa/nightowl",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YjUyMDBiODQyNDk3NzdkNTI0NDVhZmIxMGZjYThiZTYwMDcyY2UwOTlmMjZjOGM5ZGJiOTZhNGJmNzFjZWQ5ZDhlYzUxNGMwZjEwZmE2ZWEyNzc2NGU4MjJkNWE5ZGUxYmE0M2YyNWY1ZDljNmRjMGJlOTljNjkyNmY1MTJiZDA=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1593463456696,
+    "testFrameworks": ["gatling"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
